@@ -1,0 +1,11 @@
+.btn.increase {
+    background-color: red;
+}
+
+.btn.reset {
+    background-color: blue;
+}
+
+.btn.decrease {
+    background-color: green;
+}
