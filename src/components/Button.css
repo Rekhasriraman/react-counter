@@ -1,11 +1,15 @@
-.btn.increase {
-    background-color: red;
+.btn{
+    margin-left: 1px;
 }
 
-.btn.reset {
+.btn.Increase {
+    background-color: green;
+}
+
+.btn.Reset {
     background-color: blue;
 }
 
-.btn.decrease {
-    background-color: green;
+.btn.Decrease {
+    background-color: red;
 }
